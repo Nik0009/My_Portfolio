@@ -1,0 +1,38 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "images/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "images/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "images/javascript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "images/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "images/node.png"
+    },
+    {
+      "title":"Firebase",
+      "imageSrc":"images/firebase.png"
+    },
+    {
+      "title": "GraphQL",
+      "imageSrc": "images/graphql.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "images/mongodb.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "images/figma.png"
+    }
+  ]
